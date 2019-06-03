@@ -1,106 +1,83 @@
-# SECRETOS PARA HACER TORTAS
+# Secretos para hacer tortas  
+En este documento se encuentran reglas y recomendaciones para crear un excelente bizcocho, consejos sobre los ingredientes: el estado, la manipulación y las proporciones, también sobre cada paso para realizar una primera torta.  
 
-En este documento se encuentran reglas y  recomendaciones para crear un excelente   
-bizcocho, desde recomendación sobre los ingredientes tanto en el estado, la manipulación   
-y en las proporciones, también sobre cada paso para realizar un una primera torta.
+# Ley de los ingredientes  
+Todos los ingredientes siempre tienen que estar al clima, excepción de los huevos y la crema de leche (nata) cuando se quiere hacer crema chantillí.  
+ 
+### Harina  
+Siempre tiene que ser atomizada, pasarla por un colador para evitar que grumos queden en la mezcla.  
+`Atomizar`: Pulverizar un en partículas muy pequeñas.  
 
-# LEY DE INGREDIENTES
-Todos los ingredientes siempre tienen que estar al clima, excepción de los huevos  
-y la crema de leche (nata) cuando se va ha hacer chantillí.
+### Mantequilla  
+Utilizar a temperatura ambiente (llamada mantequilla en `pomada` o `cremosa`) aunque se puede calentar dependiendo de la receta.  
 
-### Harina 
-Siempre atomizada, pasarla por el colador para evitar que grumos queden en la mezcla.  
-`Atomizar`: Pulverizar un en partículas muy pequeñas.
+### Aceite  
+Usar aceite girasol puro o mezclado con aceite de oliva.  
 
-### Mantequilla 
-A temperatura ambiente (llamada mantequilla en `pomada` o `cremosa`) aunque se puede calentada  
-dependiendo de la receta.
+### Azúcar  
+Generalmente se usa el blanco también se puede usar la azúcar morena que le da más sabor (pero le cambia el color), algunas personas también utilizan panela molida.  
 
-### Aceite
-De girasol o girasol mezclado con oliva.
+### Huevos  
+Cada vez que se rompa un huevo se coloca en una taza parte para comprobar su estado y luego se pasa al molde donde se batirán.  
+Si se quiere un bizcocho esponjoso, se debe batir siempre mezclando poco a poco con el azúcar y la harina. Para un bizcocho aún más esponjoso separar las yemas de las claras, y batir estas últimas con azúcar hasta que la mezcla quede con una textura como la del helado que es llamada `punto de nieve` (se puede comprobar que esta lista cuando se voltea el contenedor de la mezcla y no se derrama) cuando se mezcle con la yema realizar movimientos envolventes (mover desde el costado asía el centro y con la otra mano girar el molde a la dirección contraria) con una pala pastelera, una cuchara (preferible de palo). 
 
-### Azúcar
-Clásico blanco (generalmente la morena le da más sabor, pero le cambia el color).
+### Yogur  
+en vez de nata para uno más ligero  
 
-### Huevos 
-Cada vez que se rompa un huevo se coloca en una taza parte para comprobar su estado y luego se puede pasar al molde donde se batirán.  
-Si se quiere uno esponjoso se debe batir siempre mezclando de a pocos el azúcar y la harina dependiendo la receta.  
-Si se deben separar las llamas de las claras cuando se unan de nuevo realizar movimientos   
-envolventes (mover desde el costado asía el centro y con la otra mano girar el molde a la   
-dirección contraria) con una pala pastelera, una cuchara (preferible de palo)   
+### Levadura  
+Utilizar Levadura química (polvo para hornear) porque esta crece con el calor y nunca levadura seca porque no sube en el horno (esta se utiliza en pan y galletas).  
 
-### Yogur 
-en vez de nata para uno más ligero
-
-### LEVADURA
-Levadura química (polvo para hornea)  esta solo sube en el horno y nunca levadura seca  ya   
-que esta no sube en el horno, esa se utiliza en pan y galletas.  
-
-Se puede mesclar para crear:
-- 2 partes bicarbonato de sodio.
-- 2 partes crémor tártaro.
+Se puede mezclar para crear:  
+- 2 partes bicarbonato de sodio.  
+- 2 partes crémor tártaro.  
 - 1 parte maicena.  
 
-según mi experiencia queda mucho sabor a sodio, tal vez por que estaba pasada la fecha de  
-caducidad del sodio, también tengo entendido que un poco de sodio y harina para arroz
+según mi experiencia queda con mucho sabor a sodio, tal vez porque estaba pasada la fecha de caducidad del sodio que utilice, también tengo entendido que se puede mezclar un poco de sodio y harina para arroz, pero no le he intentado. 
 
-### SAL
-siempre realza el sabor, pero solo un poco de lo contrario quedara salado.
+### Sal  
+se utiliza para realzar el sabor, pero solo se debe utilizar un poco de lo contrario quedara salado.  
 
-# LEY DE LAS PROPORCIONES
+# Ley de las porciones  
+Las proporciones recomendadas: 
+- 3 partes de harina. 
+- 2 de azúcar (se puede utilizar la mitad de lo que indica la receta o edulcorantes si tiene problemas relacionados con el azúcar). 
+- 1 de lácteos. 
+- 1 de grasa. 
+- 1 o 1 /2 de huevos batidos. 
+- levadura.  
 
-Siempre las proporciones recomendadas, pero como norma general
-- 3 partes de harina (ya sea trigo, trigo integral)
-- 2 de azúcar (se puede utilizar la mitad de lo que indica la receta o edulcorantes)
-- 1 de lácteos 
-- 1 de grasa 
-- 1 o 1 /2 de huevos batidos
-- levadura 
+Opcional - también se puede endulzar con fruta fresca (manzana, banano) o frutos secos, pero adicionar en el último momento (nueces, avellanas o pasas) o aderezos como el limón o la naranja (cascara rallada sin la parte blanca porque agria o un poquito de jugo) se enharinen los frutos secos para que no se vallan todos al fondo dependiendo de la receta se pude subir la cantidad de harina en algunos casos se recomienda 50 gramos por cada huevo, en otros se recomienda 30, por ejemplo, una receta muy común de pastel japonés se utiliza 10 gramos por cada huevo (5 de harina de trigo y 5 de maicena) la maicena se puede mezclar con harina normal para lograr que sea más esponjoso si la cantidad de maicena pasa a la de harina puede que quede dura como la textura de galleta.  
 
-Opcional - también se puede endulzar con frutas, pero siempre fresca (manzana, banano)  
-o frutos secos, pero en el último momento (nueces, avellanas o pasas) o aderezos como  
-el limón o la naranja (cascara rallada sin la parte blanca que agria o un poquito de jugo)  
-se enharinen los frutos secos para que no se vallan todos al fondo dependiendo de la receta  
-se pude subir la cantidad de harina en algunos casos se recomienda 50 gramos por cada huevo,  
-en otros se recomienda 30, por ejemplo, una receta muy común de pastel japonés se utiliza 10  
-por cada huevo (5 de harina de trigo y 5 de maicena)la maicena se puede mesclar con harina  
-normal para lograr que sea más esponjoso si la cantidad de maicena pasa a la de harina  
-puede que quede dura la textura como de galleta
+#### Ejemplo:  
+Bizcocho Vegano:  
+- harina de trigo  
+- azúcar 
+- bebida de soya – lácteo  
+- aceite de oliva - grasa  
+- ralladura de limón – opcional es solo para dar aroma  
+- levadura  
 
-#### Ejemplo: 
+### Moldes  
+Se pueden utilizar moldes de silicona, pero los metálicos funcionan mejor ya que transmiten mejor el calor. 
 
-Bizcocho Vegano:
-- harina de trigo 
-- azúcar
-- bebida de soya – lácteo 
-- aceite de oliva - grasa
-- ralladura de limón – opcional es solo para dar aroma
-- levadura
+#### Opciones para desmontar:  
+- Untar todo el molde de mantequilla o manteca  
+- Untar todo el molde de mantequilla y luego enharinar (con esta opción suelen quedar parches, pero a mi parecer es más fácil de utilizar)  
+- Utilizar papel de horneado  
+- Si es una torta que sube mucho utilizar papel de horno junto a la mantequilla (para que no se caiga el papel de horno y la torta crezca libre).  
 
+### Horneado  
 
-### MOLDES
-Se pueden utilizar los de silicona, pero los metálicos funcionan mejor ya que transmiten mejor el calor
+#### Que no se debe hacer:  
+- Nunca abrir el horno para que entre el frio (el bizcocho se puede desplomar o dejara de crecer).  
+- No bajar bruscamente la temperatura del horno.  
+- Nunca utilizar ventilar porque reseca la masa.  
 
-#### Opciones para desmontar:
-- Untar todo el molde de mantequilla o manteca 
-- Untar todo el molde de mantequilla y luego enharinar (con esta opción suelen quedar parches, pero a mi parecer es más fácil de utilizar)
-- Utilizar papel de horneado
-- Si es una torta que sube mucho utilizar papel de horno junto a la mantequilla parra que no se caiga el papel de horno y la torta crezca libre
+#### A tener en cuenta:  
+El tiempo en regla es de 7 minutos por cada centímetro de masa y la temperatura ideal esta entre 180 grados o 170 grados con calor arriba y abajo, aunque horno es distinto, es mejor probar que funciona mejor para cada uno.  
+Si se quiere que la superficie quede pareja cocinar con temperatura baja. 
+Con una aguja metálica o cuchillo pinchar y si sale la aguja o cuchillo seco ya está horneado si no dejar 5 minutos más y repetir el método, si la parte superior ob  tiene un tono dorado muy rápido bajar la temperatura.  
 
-### HORNEADO
-
-#### Que no se debe hacer:
-- Nunca abrir el horno para que entre el frio (el bizcocho de desplomara o dejara de crecer).
-- No bajar bruscamente la temperatura del horno.
-- Nunca utilizar ventilar porque reseca la masa.
-
-#### A tener en cuenta:
-El tiempo en regla es de 7 minutos por cada centímetro de masa y la temperatura ideas esta entre 180  
-o 170 con calor arriba y abajo aunque horno es distinto, es mejor probar que funciona mejor para cada uno.  
-Si se quiere que la superficie quede pareja cocinar con temperatura baja.  
-Con una aguja metálica o cuchillo pinchar y si sale la aguja o cuchillo seco ya está horneado si no dejar  
-5 minuto más y repetir el método, si doro por encima muy rápido bajarle la temperatura al horno.
-
-## DESMONTADO
-Esperar un poco antes de desmontar para que no se desmorone.
-Repasar con un cuchillo las orillas y dar dos golpes fuertes al molde para sacarlo.
+## Desmontado 
+Esperar un poco antes de desmontar para que no se desmorone. 
+Repasar con un cuchillo las orillas y dar dos golpes fuertes al molde para sacarlo. 
